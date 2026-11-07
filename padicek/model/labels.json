@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "Bacterial Leaf Blight",
+    "Brown Spot",
+    "Healthy Rice Leaf",
+    "Leaf Blast",
+    "Leaf scald",
+    "Sheath Blight"
+  ],
+  "img_size": 224,
+  "ambang_keyakinan": 0.5,
+  "ambang_minimum": 0.5,
+  "skenario": "S1"
+}
