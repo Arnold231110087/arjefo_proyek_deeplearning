@@ -6,7 +6,7 @@ Proyek UTS mata kuliah **Pembelajaran Mendalam**, Kelompok **Arjefo**, Universit
 
 - **Website:** https://padicek.streamlit.app
 - **Dataset:** [Rice Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/anshulm257/rice-disease-dataset)
-- **Video demo:** _(menyusul)_
+- **Video demo:** https://drive.google.com/drive/folders/1J1zFbfD8hQLVzsKnHqVqQjIyTsU8BG_n?usp=sharing
 
 ## Kelas yang dikenali
 
